@@ -1,3 +1,4 @@
+import { upload } from "@testing-library/user-event/dist/upload";
 import React from "react";
 import About from "./components/about/About";
 import Contact from "./components/contact/Contact";
@@ -26,3 +27,5 @@ const App = () => {
 };
 
 export default App;
+
+console.log("lol");
