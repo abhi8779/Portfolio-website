@@ -9,7 +9,7 @@ const HeaderSocials = () => {
       <a herf="http://linkedin.com" target="_blank">
         <BsLinkedin />
       </a>
-      <a herf="http://github.com" target="_blank">
+      <a herf="https://github.com/abhi8779" target="_blank">
         <BsGithub />
       </a>
       <a herf="http://instagram.com" target="_blank">

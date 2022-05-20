@@ -1,6 +1,6 @@
 import React from "react";
 
-import ME2 from "../../assets/Picsart_22-05-18_12-16-57-230.png";
+import ME2 from "../../assets/me-about.jpg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -42,7 +42,9 @@ const About = () => {
             hrhfbf brtr lorem jksv fsvs sfd svsd vd hrhfbf brtr v lorem jksv
             fsvs sfd svsd vd hrhfbf brtr
           </p>
-          <a href="#contact" className="btn-primary"></a>
+          <a href="#contact" className="btn btn-primary">
+            Lets Talk
+          </a>
         </div>
       </div>
     </section>

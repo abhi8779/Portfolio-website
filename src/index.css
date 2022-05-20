@@ -18,9 +18,9 @@
   --color-white: #fff;
   --color-light: rgba(255, 255, 255, 0.6);
 
-  --container-width-lg: 75%;
+  --container-width-sm: 75%;
   --container-width-md: 86%;
-  --container-width-sm: 90%;
+  --container-width-lg: 90%;
 
   --transition: all 400ms ease;
 }
@@ -58,7 +58,6 @@ h1 {
 
 section {
   margin-top: 8rem;
-  height: 100vh;
 }
 
 section > h2,
@@ -103,7 +102,7 @@ a:hover {
   color: var(--color-bg);
 }
 
-.img {
+img {
   display: block;
   width: 100%;
   object-fit: cover;
